@@ -1,0 +1,7 @@
+python-devel
+haproxy
+python-virtualenv
+python-pip
+openssl-devel
+libffi-devel
+
